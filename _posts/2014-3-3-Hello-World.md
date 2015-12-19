@@ -3,7 +3,7 @@ layout: post
 title: \\( sin(x^2) \\)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below). \\( sin(x^2) \\) 
+\\( sin(x^2) \\) 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

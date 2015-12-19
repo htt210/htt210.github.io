@@ -29,6 +29,6 @@ Result
 Although the technique is simple, it is quite effective in practice. Systems trained with curriculum learning are not only generalize better but also converge faster. Detailed result can be found in the original paper.
 
 ### References
-Bengio, Yoshua, et al. "Curriculum learning." Proceedings of the 26th annual international conference on machine learning. ACM, 2009.
+Bengio, Yoshua, Jérôme Louradour, Ronan Collobert, and Jason Weston. "Curriculum learning." In Proceedings of the 26th annual international conference on machine learning, pp. 41-48. ACM, 2009.
 
 Allgower, E. L., & Georg, K. (1980). Numerical continuation methods. An introduction. Springer-Verlag

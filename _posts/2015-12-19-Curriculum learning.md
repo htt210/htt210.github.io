@@ -5,7 +5,7 @@ title: Curriculum learning
 
 ### Introduction
 
-Curriculum learning is a technique for training machine learning systems  proposed by Yoshua Bengio et al. in the paper named Curriculum Learning.
+Curriculum learning is a technique for training machine learning systems  proposed by Yoshua Bengio et al. in 2009.
 
 The method of curriculum learning is quite intuitive. It is analogous to how we learn in schools, we first start with a easy introductory course and gradually learn more advanced courses of the same subject. Yoshua Bengio et al. suggest that if we train our system on data sets of increasing order of 'difficulty' then the model can achieve better generalization and reduce training time.
 
@@ -13,9 +13,9 @@ The method of curriculum learning is quite intuitive. It is analogous to how we 
 
 Continuation methods (Allgower & Georg, 1980) first 'optimize a smoothed version of the objective function and gradually consider less smoothing with the intuition that the smoothed version of the problem reveal the global picture'.
 
-![_config.yml]({{ site.baseurl }}/images/smoothed.PNG)
+![_config.yml]({{ site.baseurl }}/images/curriculumlearning/smoothed.PNG)
 
-![_config.yml]({{ site.baseurl }}/images/loss.PNG)
+![_config.yml]({{ site.baseurl }}/images/curriculumlearning/loss.PNG)
 
 Figure 1: Sequence of functions from most smoothed to least smoothed.
 

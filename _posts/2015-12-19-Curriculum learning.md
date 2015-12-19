@@ -19,7 +19,7 @@ Continuation methods (Allgower & Georg, 1980) first 'optimize a smoothed version
 
 Figure 1: Sequence of functions from most smoothed to least smoothed.
 
-Consider the example in figure 1, if we minimize the original objective using gradient descent starting at \\(x=1.5\\) we might get stuck at the local minimum at \\(x \approx 0.4\\). However, if we minimize the top objective, we can go pass the local minimum and arrive at an approximate solution at \\(x \approx -2.35\\). After that, we optimize the non-smoothed objective but with a starting point at \\(x \approx -2.35\\). This time we arrive at the global minimum.
+Consider the example in figure 1, if we minimize the original objective (bottom) using gradient descent starting at \\(x=1.5\\) we might get stuck at the local minimum at \\(x \approx 0.4\\). However, if we minimize the top objective, we can go pass the local minimum and arrive at an approximate solution at \\(x \approx -2.35\\). After that, we optimize the non-smoothed objective but with a starting point at \\(x \approx -2.35\\). This time we arrive at the global minimum.
 
 In Curriculum Learning, Bengio et al. did not try to smooth the objective function but to give the system easier training examples first to guide the training toward better regions in parameter space. More difficult training examples are gradually introduced latter to fine turn the model.
 

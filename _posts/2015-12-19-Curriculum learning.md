@@ -13,9 +13,9 @@ The method of curriculum learning is quite intuitive. It is analogous to how we 
 
 Continuation methods (Allgower & Georg, 1980) first 'optimize a smoothed version of the objective function and gradually consider less smoothing with the intuition that the smoothed version of the problem reveal the global picture'.
 
-![_config.yml]({{ site.baseurl }}/images/curriculumlearning/first_smoothed.png)
+![_config.yml]({{ site.baseurl }}/images/first_smoothed.png)
 
-![_config.yml]({{ site.baseurl }}/images/curriculumlearning/original_loss.png)
+![_config.yml]({{ site.baseurl }}/images/original_loss.png)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Curriculum learning
+comments: True
 ---
 
 ### Introduction

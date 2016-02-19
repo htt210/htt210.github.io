@@ -7,6 +7,7 @@ comments: True
 ### Introduction
 This course is written specifically for one of my friend and not for commercial purpose. 
 This course talks about neural networks from a programmer perspective so it contains a lot of programming practices. 
+Due to my limited English, the first version of this course will be in Vietnamese. I will try to translate it to English later.
 
 ### Syllabus 
 Neural Networks Spring 2016 \[NNS16\]

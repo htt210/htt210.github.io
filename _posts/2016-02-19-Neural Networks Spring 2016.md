@@ -12,7 +12,7 @@ Due to my limited English, the first version of this course will be in Vietnames
 ### Syllabus 
 Neural Networks Spring 2016 \[NNS16\]
 
-00. Overview
+00. [Overview]({% post_url _posts/2016-02-20-Overview %})
 01. Perceptron 
 02. Linear regression
 03. Logistic regression

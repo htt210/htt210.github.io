@@ -9,7 +9,9 @@ Many works suggested that volume conservation is important for deep nets to lear
 Information theoretic view of a mapping:
 
 $Y = f(X)$
+
 $H(Y) \le H(X) + \log(|\frac{\partial Y}{\partial X}|)$
+
 Xavier initialization also tries to keeps the variance of the output to be the same as that of the inputs. That's another form of coservation.
 
 [1] Understanding Very Deep Networks via Volume Conservation 

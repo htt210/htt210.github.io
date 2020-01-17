@@ -10,7 +10,7 @@ Information theoretic view of a mapping:
 
 $$Y = f(X)$$
 
-$$H(Y) \le H(X) + \log\left(\left\vert\frac{\partial Y}{\partial X}\right\vert\right)$$
+$$H(Y) \le H(X) + \mathbb{E}\left[ \log\left(\left\vert\frac{\partial Y}{\partial X}\right\vert\right) \right]$$
 
 
 Xavier initialization also tries to keeps the variance of the output to be the same as that of the inputs. That's another form of coservation.

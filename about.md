@@ -12,8 +12,9 @@ I studied Computer Science at VNU, Hanoi from 2008 to 2012. I worked at several 
 
 I am mostly interested in the theoretical aspects of deep learning systems. My PhD focuses on the convergence and generalization properties of Deep Generative Models.
 
-### External links:
+### External links
 Google scholar: https://bit.ly/htt210scholar
+Semantic scholar: https://bit.ly/htt210semantic
 
 ### Contact me
 

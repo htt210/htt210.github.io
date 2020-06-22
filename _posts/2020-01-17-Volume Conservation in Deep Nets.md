@@ -4,7 +4,8 @@ title: Volume Conservation in Deep Nets
 comments: True
 ---
 
-Many works suggested that volume conservation is important for deep nets to learn effectively. [1] argued that ResNet, LSTM, Highway nets are all based on this idea. 
+Many works suggested that volume conservation is important for deep nets to learn effectively. 
+[Unterthiner & Hochreiter](https://openreview.net/forum?id=ROVmN8wyOSvnM0J1IpNm "Understanding Very Deep Networks via Volume Conservation. Thomas Unterthiner & Sepp Hochreiter") argued that ResNet, LSTM, Highway nets are all based on this idea. 
 Information theoretic view of a mapping:
 
 $$Y = f(X)$$
@@ -16,6 +17,6 @@ To conserve the volume/information, the determinant of the Jacobian must be 1.
 
 Xavier initialization also tries to keep the variance of the outputs to be the same as that of the inputs. That's another form of coservation.
 
-[1] Understanding Very Deep Networks via Volume Conservation. Thomas Unterthiner & Sepp Hochreiter
+
 
 

@@ -25,4 +25,8 @@ The authors also proposed an initialization scheme which allows SIREN to be trai
 "The key idea in our initialization scheme is to preserve the distribution of activations
 through the network so that the final output at initialization does not depend on the number of layers."
 
+## Some thoughts
+From these paper, we see that volume/information preservation is the key to representation learning.
+We could use this as a guideline for developing new Deep Generative Models.
+
 

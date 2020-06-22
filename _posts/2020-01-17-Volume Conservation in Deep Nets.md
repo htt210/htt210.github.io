@@ -21,7 +21,8 @@ To conserve the volume/information, the determinant of the Jacobian must be 1.
 [Xavier initialization](http://proceedings.mlr.press/v9/glorot10a.html "Understanding the difficulty of training deep feedforward neural networks") also tries to keep the variance of the outputs to be the same as that of the inputs. That's another form of coservation.
 
 Recently, [Sitzmann et al.](https://vsitzmann.github.io/siren/ "Implicit Neural Representations with Periodic Activation Functions") introduced SINusoidal REpresentation Networks (SIREN) for "representing  complex natural signals and their derivatives".
-  
-
+The authors also proposed an initialization scheme which allows SIREN to be trained efficiently.
+"The key idea in our initialization scheme is to preserve the distribution of activations
+through the network so that the final output at initialization does not depend on the number of layers."
 
 

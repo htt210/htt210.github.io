@@ -3,13 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello there
+I'm Hoang ThanhTung, a machine learning enthusiast from Vietnam. I love Machine Learning, open source and sharing.
 
-I'm ThanhTung, from Vietnam. I love Machine Learning, open source and sharing.
+### Brief Bio
 
-### More Information
+I studied Computer Science at VNU, Hanoi from 2008 to 2012. I worked at several universities in Singapore before joining Deakin University in 2017 as a PhD student.
 
-I studied Computer Science at VNU, Hanoi. 
+I am mostly interested in the theoretical aspects of deep learning systems. My PhD focuses on the convergence and generalization properties of Deep Generative Models.
+
 
 ### Contact me
 
-username at outlook dot com where username = htt210
+username at gmail dot com where username = htt210

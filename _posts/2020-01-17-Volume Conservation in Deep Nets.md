@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Random notes
+title: Volume Conservation in Deep Nets
 comments: True
 ---
 
-## Volume Conservation in Deep Nets
 Many works suggested that volume conservation is important for deep nets to learn effectively. [1] argued that ResNet, LSTM, Highway nets are all based on this idea. 
 Information theoretic view of a mapping:
 
